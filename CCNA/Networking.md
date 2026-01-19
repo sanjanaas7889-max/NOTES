@@ -1168,4 +1168,5 @@ Assign                                                  Assign
                    (0 to 127 in 4th octet)
 ```
 
-soo on....
+soo on.... xxxxx
+not soo on do it right away and also write ipv6 its very less its importance encryption and attack method
