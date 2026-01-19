@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebPt/Server side/10.File Upload Vulnerability.md",
+                "file": "WebPt/Client Side/2.CSRF(Client side request Forgery).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.File Upload Vulnerability"
+              "title": "2.CSRF(Client side request Forgery)"
             }
           }
         ]
@@ -220,9 +220,10 @@
   },
   "active": "ca7168f07f05ca27",
   "lastOpenFiles": [
-    "WebPt/Client Side/4.CORS(Cross-origin resource sharing).md",
     "WebPt/Server side/2.Broken Access Control.md",
     "WebPt/Client Side/2.CSRF(Client side request Forgery).md",
+    "WebPt/Server side/10.File Upload Vulnerability.md",
+    "WebPt/Client Side/4.CORS(Cross-origin resource sharing).md",
     "CCNA/Networking.md",
     "WebPt/OWASP Top 10.md",
     "VAPT  CHECKLIST.md",
@@ -239,7 +240,6 @@
     "MPT/Untitled.md",
     "MPT/8.Data Storage (Insecure Data Storage)(OWASP TOP 10.M9).md",
     "WebPt/Server side/6.SSRF.md",
-    "WebPt/Server side/10.File Upload Vulnerability.md",
     "WebPt/Server side/8.JWT.md",
     "WebPt/Server side/7.Race Condition.md",
     "WebPt/Client Side/Screenshot (40).png",
